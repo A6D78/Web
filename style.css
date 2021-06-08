@@ -1,0 +1,24 @@
+body {
+    font-size: 15pt;
+    background: url(Bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: deepskyblue;
+}
+h1{
+  
+font-family:  "Courier New", monospace;
+background-color :skyblue;
+border-radius:10px;
+text-align:center;
+box-shadow: 3px 12px 8px #888888;
+}
+h3{
+  text-align:center;
+}
+footer {
+  display: block;
+  background-color:#42445A;
+  
+  border-radius:1px ;
+}
